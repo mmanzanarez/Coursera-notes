@@ -1,6 +1,5 @@
 ---
 title: "Data Scientist’s Toolbox Course Notes"
-author: "Max Manzanarez"
 output:
   pdf_document:
     toc: yes
