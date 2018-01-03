@@ -1,13 +1,6 @@
 ---
 title: "Data Scientist’s Toolbox Course Notes"
-output:
-  pdf_document:
-    toc: yes
-    toc_depth: 3
-  html_document:
-    highlight: pygments
-    theme: spacelab
-    toc: yes
+
 ---
 
 $\pagebreak$
